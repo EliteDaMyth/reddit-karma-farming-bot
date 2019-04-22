@@ -26,3 +26,7 @@ Navigate to
 and put in your Information to get client id and secret follow [This](https://hackernoon.com/build-a-serverless-reddit-bot-in-3-steps-with-node-js-and-stdlib-sourcecode-e5296b78fc64) Guide
 
 now finally to run the bot use python2 run.py
+
+HMU On Discord (EliteDaMyth#1592) for any questions/unexpected errors 
+
+PEACE!
